@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    
+    font-family: 'Cormorant SC', serif;
 }
 body{
     background: url('http://orig06.deviantart.net/8c67/f/2010/251/d/a/noble_team___black___by_elhiahcolee-d2ybizf.jpg');
@@ -110,7 +110,15 @@ flex:1;}
     width: 100%;
     height: 100vh;
 }
-
+.title{
+    color: rgb(109,209,246);
+}
+h2{
+    color: rgb(97,153,212);
+}
+h3{
+    color:rgb(153,194,233);
+}
 .sectionl{
     width: 100%;
     height: 100vh;
